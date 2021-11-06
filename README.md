@@ -13,3 +13,6 @@ Check it out!
 These "Core Plugins" files are the original files from Jomres Server before they are installed.
 
 # DON'T FORGET TO DOWNLOAD THE CORE FILES AND SAVE THEM FOR LATER!
+
+Download the Plugin here:
+http://www.fixmycomputermark.com/free-downloads/file/129-save-jomres-core-plugin-files.html
