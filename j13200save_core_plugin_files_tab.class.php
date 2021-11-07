@@ -17,7 +17,7 @@ class j13200save_core_plugin_files_tab {
 				<td>This Plugin will Save your Jomres Core Plugins files for later use if you did not need them now and after your Jomres Subscription has expired.<br><br>
 				 After this plugin is installed; All you need to do is just hit the blue \"Install\" or \"Reinstall\" button under the \"Add/reinstall/upgrade plugin\" column.
 				<br><br>
-				ALL your Jomres Core Plugins files are now saved here as a ZIP file: /jomres/updates/<br><br>
+				ALL your Jomres Core Plugins files are now saved here as a ZIP file: /jomres/saved_plugins/<br><br>
 				You can even save your Plugin Manager files for later!<br><br>
 				Check it out!<br><br>
 				These \"Core Plugins\" files are the original files from Jomres Server before they are installed.<br><br>
