@@ -2,7 +2,7 @@
 
 This Plugin will Save your Jomres Core Plugins files for later use if you did not need them now and after your Jomres Subscription has expired.
 
-After this plugin is installed, and you have a Jomres License; All you need to do is just hit the blue "Install" or "Reinstall" button under the "Add/reinstall/upgrade plugin" column, or the big silver "Reinstall all installed plugins" button.
+After this plugin is installed, and you have a Jomres License, even just a one month license will do; All you need to do is just hit the blue "Install" or "Reinstall" button under the "Add/reinstall/upgrade plugin" column, or the big silver "Reinstall all installed plugins" button.
 
 ALL your Jomres Core Plugins files are now saved here as a ZIP file: /jomres/saved_plugins/
 
